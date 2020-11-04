@@ -1,2 +1,2 @@
 # DFD
-![DFD](.jpg "DFD")
+![DFD](DFD.jpg "DFD")
